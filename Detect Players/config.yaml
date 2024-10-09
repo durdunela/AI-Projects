@@ -1,0 +1,9 @@
+train: /home/mari/Development/AI/football_tracking/Detect Players/train
+val: /home/mari/Development/AI/football_tracking/Detect Players/valid
+test: /home/mari/Development/AI/football_tracking/Detect Players/test
+
+nc: 3  
+names:
+  0: Ball
+  1: Player
+  2: Referee
